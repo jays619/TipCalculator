@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    
+    //THIS IS THE BROWSER VERSION
     @IBOutlet weak var tipLabel: UILabel!
     
     @IBOutlet weak var totalLabel: UILabel!
